@@ -1,4 +1,5 @@
-A bit of networking in Java
+A bit of networking in Java.
+Why Java ? Because my teacher told me to do it in java.
 
 ## DateServeur
 
